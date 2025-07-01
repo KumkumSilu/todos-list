@@ -2,12 +2,12 @@
 
 A responsive Todo List app built with **React** and **Bootstrap**, designed to manage daily tasks efficiently while practicing key frontend skills like component architecture and routing.
 
+
+
 ## 🚀 Live Demo
 
-🔗 [View App on Vercel](https://your-vercel-url.vercel.app)  
-_Replace the link after deploying!_
+[Click here to try the app](https://todos-list.vercel.app)
 
----
 
 ## 🧰 Tech Stack
 
