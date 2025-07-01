@@ -34,14 +34,12 @@ A responsive Todo List app built with **React** and **Bootstrap**, designed to m
    git clone https://github.com/KumkumSilu/todos-list.git
    cd todos-list
 2. Install dependencies:
-
-bash
-npm install
+   ```bash
+   npm install
 
 3. Start the development server:
-
-bash
-npm start
+```bash
+  npm start
 
 👩‍💻 Author
 Kumkum Sahoo Frontend Developer | Full Stack Aspirant
