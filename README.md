@@ -38,8 +38,10 @@ A responsive Todo List app built with **React** and **Bootstrap**, designed to m
    npm install
 
 3. Start the development server:
-```bash
-  npm start
+   ```bash
+   npm start
+
+
 
 
 👩‍💻 Author
